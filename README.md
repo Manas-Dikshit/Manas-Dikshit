@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building AI-powered web applications using REST APIs & Spring Boot<br><br>Contributing to open-source projects<br><br>🤝 I’m looking to collaborate on<br><br>Open-source Java projects<br><br>Software development internships and hackathons<br><br>👐 I’m looking for help with<br><br>Exploring cloud deployment (AWS/GCP)<br><br>Improving system design and scalability skills<br><br>🌱 I’m currently learning<br><br>Advanced Java & Spring Boot for backend<br><br>Data Structures & Algorithms for problem-solving<br><br>AI integration into web apps<br><br>💬 Ask me about<br><br>Java, REST APIs, MySQL, Spring Boot, DSA, Management<br><br>Hackathon projects & how to build AI-driven tools<br><br>⚡ Fun fact<br><br>I once created a health assistant AI app that served 500+ users in a hackathon weekend 🎉<br><br>Code with me you will get to know OKhayy
+# 💫 About Me  
+
+🔭 Working on **AI-powered web apps** using REST APIs & Spring Boot · Contributing to **open-source projects**  
+🤝 Open to collaborate on **Java projects**, internships & hackathons  
+👐 Exploring **Cloud Deployment (AWS/GCP)** · Enhancing **System Design & Scalability**  
+🌱 Learning **Advanced Java, Spring Boot, DSA**, and **AI integration in web apps**  
+💬 Ask me about **Java, REST APIs, MySQL, Spring Boot, DSA, Management** · Hackathon projects & AI-driven tools  
+⚡ Fun fact: Built a **Health Assistant AI App** that served **500+ users in a hackathon weekend 🎉** — *Code with me, you’ll get to know OKhayy 😎*  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 
 ## 🌐 Socials:
