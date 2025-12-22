@@ -1,7 +1,16 @@
 <!-- ✨ MANAS RANJAN DIKSHIT - NEXT-GEN GITHUB PROFILE README ✨ -->
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Manas Ranjan Dikshit</span></h1>
-<h3 align="center">💻 Software Developer | Java & Spring Boot | AI Web Apps | Open Source Contributor 🌍</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=940&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Manas+Ranjan+Dikshit;Software+Engineer+%7C+AI+Enthusiast+%7C+Open+Source+Contributor;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  <span style="color:#00BFFF;">Manas Ranjan Dikshit</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<h3 align="center">🚀 Full-Stack Software Engineer | AI-Powered Web Apps | Spring Boot & Next.js Expert | Apache Contributor 🌍</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" height="250" />
@@ -9,151 +18,134 @@
 
 ---
 
-## 💫 About Me
+## 🌟 About Me
 
-🔭 Currently building **AI-powered Web Apps** integrating `Spring Boot`, `Next.js`, and `Supabase`  
-🤝 Actively contributing to **Apache & Open Source Communities**  
-🌱 Exploring **Cloud-Native Deployment (AWS/GCP)** and **System Design**  
-🧩 Improving **Scalability, CI/CD automation, and API Security**  
-💬 Ask me about **Java, Spring Boot, REST APIs, SQL, DSA, and Hackathons**  
-⚡ Fun fact: I once built an **AI Health Assistant App** that served **500+ users in a weekend hackathon!** 😎  
-🎯 Motto: *“Think deeply, build quickly, and optimize endlessly.”*  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" height="150" />
+      </td>
+      <td>
+        🔭 <strong>Currently Crafting:</strong> AI-driven web applications with <code>Spring Boot</code>, <code>Next.js</code>, and <code>Supabase</code> for scalable solutions.<br>
+        🤝 <strong>Open Source Advocate:</strong> Active contributor to Apache CloudStack, Jenkins, and other OSS projects.<br>
+        🌱 <strong>Learning Journey:</strong> Deep-diving into Cloud-Native Architectures (AWS/GCP), Microservices, and Advanced System Design.<br>
+        🧩 <strong>Passion Areas:</strong> Optimizing Scalability, Automating CI/CD Pipelines, and Fortifying API Security.<br>
+        💬 <strong>Let's Chat About:</strong> Java, Spring Boot, RESTful APIs, SQL, DSA, Hackathons, or anything tech-related!<br>
+        ⚡ <strong>Fun Fact:</strong> Built an AI Health Assistant that onboarded 500+ users in a single weekend hackathon – talk about rapid prototyping! 😎<br>
+        🎯 <strong>Motto:</strong> <em>“Code with Purpose, Innovate Relentlessly, and Scale Infinitely.”</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/manas-ranjan-dikshit"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Manas-Dikshit"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Manas-Ranjan-Dikshit"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://youtube.com/@AapkaMRD"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-  <a href="https://instagram.com/manasss01_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:manasdikshit48@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/manas-ranjan-dikshit"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Manas-Dikshit"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/Manas-Ranjan-Dikshit"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://youtube.com/@AapkaMRD"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/manasss01_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:manasdikshit48@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://manas-ranjan-dikshit.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
-## ⚙️ Tech Universe
+## ⚙️ Tech Arsenal
 
-### 🧠 Programming & Scripting
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🧠 Core Programming & Scripting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,bash" alt="Programming Languages"/>
+</p>
 
-### 🧩 Frameworks, Tools & Libraries
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+### 🧩 Frameworks, Libraries & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,django,nodejs,express,tailwind,bootstrap,framer" alt="Frameworks & Libraries"/>
+</p>
 
-### 💾 Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECB84.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23F5820D.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+### 💾 Databases, Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,firebase,mongodb,aws,gcp,docker,kubernetes,jenkins,githubactions" alt="Databases & Cloud"/>
+</p>
 
-### 🧠 DevOps & Engineering
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%23FF6600.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+### 🛠️ Development Essentials
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,vscode,intellij,linux" alt="Dev Tools"/>
+</p>
 
 ---
 
-## 🏆 Achievements & Highlights 🎖️
+## 🏆 Achievements & Milestones
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/l0MYRzcWP2A5a3XUk/giphy.gif" width="400" height="200" />
-</p>
+</div>
+🏅 Achievement
 
-🎯 **Hack4Impact Winner (2025)** — *Built “Unicorn” for civic innovation and entrepreneurship*  
-🏅 **HackVerse Winner (2024)** — AI-powered Health Assistant used by 500+ users  
-🚀 **Hack-O-thor Winner (2024)** — Created “EDUAI”, a multi-tool education platform  
-🧩 **Apache Contributor Recognition (2025)** — Contributions in CloudStack & Jenkins  
-🌟 **LeetCode Global Top 2%** — Solved 100+ advanced DSA challenges  
-💻 **HackerRank 5★ Java Developer**  
-🏛️ **National Debate Champion (2022)** — 85+ wins & Governor’s Award  
-☁️ **Google Cloud Skill Boost Top Performer (2024)**  
+📅 Year
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manas-Dikshit&theme=onestar&no-frame=true&row=2&column=4" />
-</p>
+🌟 Description
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="360" />
-</p>
+Hack4Impact Winner
 
----
+2025
 
-## 🧬 GitHub Analytics & Contribution Drama 🎭
+Led development of "Unicorn" – a platform for civic innovation and entrepreneurship, impacting communities.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-Dikshit&theme=react-dark&hide_border=false" width="100%"/>
-</p>
+HackVerse Winner
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Dikshit&theme=github-dark-blue&hide_border=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=react-dark&hide_border=false" height="170"/>
-</p>
+2024
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Dikshit&theme=react-dark&layout=compact&hide_border=false" height="160"/>
-</p>
+Created an AI-powered Health Assistant app that served 500+ users in a weekend hackathon.
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Manas-Dikshit&limit=10&theme=react-dark&combine_all_yearly_contributions=true" />
-</p>
+Hack-O-thor Winner
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+2024
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
+Built "EDUAI", a multi-tool education platform integrating AI for personalized learning.
 
----
+Apache Contributor Recognition
 
-## 🧠 Tech Vibes Gallery
+2025
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="360">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360">
-</p>
+Key contributions to Apache CloudStack and Jenkins, enhancing cloud and CI/CD ecosystems.
 
----
+LeetCode Global Top 2%
 
-<p align="center">
-  <b>⚡ Let's Connect, Collaborate & Build the Future Together ⚡</b><br/>
-  📬 <a href="mailto:manasdikshit48@gmail.com">manasdikshit48@gmail.com</a><br/>
-  🌍 <a href="https://manas-ranjan-dikshit.netlify.app">manas-ranjan-dikshit.netlify.app</a>
-</p>
+Ongoing
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Manas-Dikshit&icon=2&color=0" />
-</p>
+Solved 100+ advanced DSA problems, specializing in algorithms and data structures.
 
----
+HackerRank 5★ Java Developer
 
-<p align="center">
-  <i>💙 Built with passion and caffeine by Manas Ranjan Dikshit ☕</i>
-</p>
+Ongoing
+
+Certified in Java proficiency with top-tier problem-solving skills.
+
+National Debate Champion
+
+2022
+
+Secured 85+ wins and Governor’s Award for eloquence and critical thinking.
+
+Google Cloud Skill Boost Top Performer
+
+2024
+
+Excelled in GCP certifications, mastering cloud architectures.
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Manas-Dikshit&theme=onestar&no-frame=true&row=2&column=4" alt="GitHub Trophies"/> </p>
+📊 GitHub Analytics & Contribution Insights
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-Dikshit&theme=react-dark&hide_border=false" width="100%" alt="Activity Graph"/> </div> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Dikshit&theme=github-dark-blue&hide_border=false" height="170" alt="Streak Stats"/> <img src="https://github-readme-stats.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=react-dark&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Dikshit&theme=react-dark&layout=compact&hide_border=false&langs_count=8" height="160" alt="Top Languages"/> </p> <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=Manas-Dikshit&limit=10&theme=react-dark&combine_all_yearly_contributions=true" alt="Contributor Stats"/> </p> <div align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/> </div>
+🚀 Featured Projects
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">AI Health Assistant</h3> <p align="center"> <a href="https://github.com/Manas-Dikshit/ai-health-assistant" target="_blank"> <img src="https://img.shields.io/github/stars/Manas-Dikshit/ai-health-assistant?style=for-the-badge&logo=github" alt="Stars"/> </a> <a href="https://github.com/Manas-Dikshit/ai-health-assistant/fork" target="_blank"> <img src="https://img.shields.io/github/forks/Manas-Dikshit/ai-health-assistant?style=for-the-badge&logo=github" alt="Forks"/> </a> </p> <p align="center">An AI-powered app for personalized health recommendations, built with Spring Boot and Next.js. Served 500+ users in a hackathon!</p> </td> <td width="50%"> <h3 align="center">EDUAI Platform</h3> <p align="center"> <a href="https://github.com/Manas-Dikshit/eduai-platform" target="_blank"> <img src="https://img.shields.io/github/stars/Manas-Dikshit/eduai-platform?style=for-the-badge&logo=github" alt="Stars"/> </a> <a href="https://github.com/Manas-Dikshit/eduai-platform/fork" target="_blank"> <img src="https://img.shields.io/github/forks/Manas-Dikshit/eduai-platform?style=for-the-badge&logo=github" alt="Forks"/> </a> </p> <p align="center">A multi-tool education platform with AI integration for adaptive learning, winner of Hack-O-thor 2024.</p> </td> </tr> </table> </div>
+🎨 Tech Vibes & Inspiration
+<p align="center"> <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360" alt="Coding Vibes"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="360" alt="Innovation"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" alt="Collaboration"> </p>
+📈 Visitor Insights
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Manas-Dikshit&icon=2&color=0" alt="Visitor Count"/> </p>
+<p align="center"> <b>⚡ Let's Build Something Extraordinary Together! ⚡</b><br/> 📬 <a href="mailto:manasdikshit48@gmail.com">manasdikshit48@gmail.com</a><br/> 🌍 <a href="https://manas-ranjan-dikshit.netlify.app">manas-ranjan-dikshit.netlify.app</a> </p> <p align="center"> <i>💙 Crafted with Passion, Code, and Endless Curiosity by Manas Ranjan Dikshit ☕</i> </p>
+<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Footer GIF"/> </div> ```
