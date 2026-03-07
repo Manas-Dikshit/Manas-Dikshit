@@ -1,7 +1,7 @@
 <!-- 💎 NEXT-GEN GITHUB PROFILE: MANAS RANJAN DIKSHIT 💎 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=940&lines=Hey+there+👋,+I'm+Manas+Ranjan+Dikshit;Software+Engineer+⚙️+|+AI+Innovator+🤖+|+Open+Source+Contributor🌍;Building+the+Future,+One+Commit+at+a+Time🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=940&lines=Hey+there,+I'm+Manas+Ranjan+Dikshit;Software+Engineer+|+AI+Innovator+|+Open+Source+Contributor;Building+the+Future,+One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 <div align="center">
   <table>
@@ -27,13 +27,13 @@
         <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" height="160" alt="Coding"/>
       </td>
       <td>
-        🔭 <strong>Currently Working On:</strong> AI-driven web apps using <code>Spring Boot</code>, <code>Next.js</code>, and <code>Supabase</code>.<br>
-        🤝 <strong>Community:</strong> Contributor to Apache CloudStack, Jenkins, and open-source DevOps tools.<br>
-        ☁️ <strong>Exploring:</strong> Cloud-Native Architectures, Kubernetes, and Distributed Systems.<br>
-        ⚙️ <strong>Expertise:</strong> Backend Engineering, API Security, and Microservices Design.<br>
-        💬 <strong>Ask Me About:</strong> Java, Spring Boot, REST APIs, React, or CI/CD pipelines.<br>
-        ⚡ <strong>Fun Fact:</strong> Built an AI Health Assistant that onboarded 500+ users in a single hackathon weekend! 😎<br>
-        🎯 <strong>Motto:</strong> <em>“Code with purpose, innovate relentlessly, and scale infinitely.”</em>
+        <strong>Currently Working On:</strong> AI-driven web apps using <code>Spring Boot</code>, <code>Next.js</code>, and <code>Supabase</code>.<br>
+        <strong>Community:</strong> Contributor to Apache CloudStack, Jenkins, and open-source DevOps tools.<br>
+        <strong>Exploring:</strong> Cloud-Native Architectures, Kubernetes, and Distributed Systems.<br>
+        <strong>Expertise:</strong> Backend Engineering, API Security, and Microservices Design.<br>
+        <strong>Ask Me About:</strong> Java, Spring Boot, REST APIs, React, or CI/CD pipelines.<br>
+        <strong>Fun Fact:</strong> Built an AI Health Assistant that onboarded 500+ users in a single hackathon weekend! 😎<br>
+        <strong>Motto:</strong> <em>“Code with purpose, innovate relentlessly, and scale infinitely.”</em>
       </td>
     </tr>
   </table>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/manas-ranjan-dikshit"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -57,35 +57,35 @@
 
 ## ⚙️ Tech Arsenal
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,bash" />
 </p>
 
-### 🧩 Frameworks, Libraries & Tools
+### Frameworks, Libraries & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,react,nextjs,django,nodejs,express,tailwind,bootstrap,framer" />
 </p>
 
-### ☁️ Databases, Cloud & DevOps
+### Databases, Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,firebase,mongodb,aws,gcp,docker,kubernetes,jenkins,githubactions" />
 </p>
 
-### 🧠 Developer Essentials
+### Developer Essentials
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,postman,vscode,intellij,linux" />
 </p>
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0MYRzcWP2A5a3XUk/giphy.gif" width="400" height="200" alt="Trophy Animation"/>
 </div>
 
-| 🏅 **Achievement** | 📅 **Year** | 🌟 **Description** |
+| 🏅 **Achievement** | **Year** | **Description** |
 |--------------------|-------------|--------------------|
 | **Hack4Impact Winner** | 2025 | Led development of *Unicorn* — civic innovation platform impacting communities. |
 | **HackVerse Winner** | 2024 | Built AI-powered Health Assistant serving 500+ users in a weekend. |
@@ -98,7 +98,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=react-dark&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
@@ -123,7 +123,7 @@
 
 ---
 
-## 🎨 Tech Vibes & Inspiration
+## Tech Vibes & Inspiration
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360" alt="Coding Vibes"/>
@@ -133,7 +133,7 @@
 
 ---
 
-## 📈 Visitor Insights
+## Visitor Insights
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Manas-Dikshit&icon=2&color=0" alt="Visitor Count"/>
