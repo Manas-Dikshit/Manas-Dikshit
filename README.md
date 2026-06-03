@@ -117,12 +117,13 @@ I focus on creating solutions that combine technical excellence with practical i
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
   <img width="49%" src="https://streak-stats.demolab.com?user=Manas-Dikshit&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Dikshit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manas-Dikshit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
