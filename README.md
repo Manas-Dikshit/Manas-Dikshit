@@ -149,7 +149,6 @@ I focus on creating solutions that combine technical excellence with practical i
   <img src="https://raw.githubusercontent.com/Manas-Dikshit/Manas-Dikshit/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
-> Note: The contribution snake requires a GitHub Action workflow configured in the profile repository (`Manas-Dikshit/Manas-Dikshit`).
 
 ---
 
