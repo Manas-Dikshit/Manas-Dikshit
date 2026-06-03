@@ -123,7 +123,7 @@ I focus on creating solutions that combine technical excellence with practical i
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manas-Dikshit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Dikshit&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
