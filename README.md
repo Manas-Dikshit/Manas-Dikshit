@@ -86,98 +86,73 @@ I focus on creating solutions that combine technical excellence with practical i
 
 ## Tech Stack Map
 
-```mermaid
-mindmap
-  root((Manas Ranjan Dikshit))
-    Languages
-      Java
-      Python
-      C / C++
-      JavaScript
-      TypeScript
-      Bash
-    Backend
-      Spring
-      Node.js
-      Express
-      Django
-    Frontend
-      React
-      Next.js
-      Tailwind
-      Bootstrap
-    Databases
-      MySQL
-      PostgreSQL
-      MongoDB
-      Firebase
-      Supabase
-    Cloud & DevOps
-      AWS
-      GCP
-      Docker
-      Kubernetes
-      Jenkins
-      GitHub Actions
-    Tooling
-      Git
-      Linux
-      VS Code
-      IntelliJ
-      Postman
-```
+<div align="center">
 
----
+<pre>
+                              ┌───────────────────────────┐
+                              │   MANAS RANJAN DIKSHIT     │
+                              └─────────────┬─────────────┘
+        ┌───────────┬───────────┬───────────┼───────────┬───────────┐
+        │           │           │           │           │           │
+   Languages     Backend    Frontend    Databases  Cloud & DevOps  Tooling
+</pre>
 
-## Stack in Detail
+<table>
+<tr><td align="center" width="16.6%"><b>Languages</b></td>
+<td align="center" width="16.6%"><b>Backend</b></td>
+<td align="center" width="16.6%"><b>Frontend</b></td>
+<td align="center" width="16.6%"><b>Databases</b></td>
+<td align="center" width="16.6%"><b>Cloud & DevOps</b></td>
+<td align="center" width="16.6%"><b>Tooling</b></td></tr>
 
-<details open>
-<summary><b>Languages</b></summary>
-<br>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,bash" />
-</p>
-</details>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=python" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=c" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=javascript" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=typescript" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=bash" width="40"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=express" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=django" width="40"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=firebase" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=supabase" width="40"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=gcp" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=docker" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=jenkins" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=githubactions" width="40"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=linux" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=intellij" width="40"/><br>
+<img src="https://skillicons.dev/icons?i=postman" width="40"/>
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>Backend</b></summary>
-<br>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django" />
-</p>
-</details>
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-</details>
-
-<details open>
-<summary><b>Databases</b></summary>
-<br>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" />
-</p>
-</details>
-
-<details open>
-<summary><b>Cloud, DevOps & Infrastructure</b></summary>
-<br>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions" />
-</p>
-</details>
-
-<details open>
-<summary><b>Development Environment</b></summary>
-<br>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,intellij,postman" />
-</p>
-</details>
+</div>
 
 ---
 
