@@ -179,31 +179,19 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 
 ## Engineering Interests
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-```
-├── Artificial Intelligence
-├── Machine Learning
-├── Backend Systems
-├── Distributed Computing
-└── Cloud Architecture
-```
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0a0a0a?style=for-the-badge&logo=openai&logoColor=00D4FF" />
+<img src="https://img.shields.io/badge/Machine_Learning-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FF6B6B" />
+<img src="https://img.shields.io/badge/Backend_Systems-0a0a0a?style=for-the-badge&logo=server&logoColor=4ECDC4" />
+<img src="https://img.shields.io/badge/Distributed_Computing-0a0a0a?style=for-the-badge&logo=apache&logoColor=FFD93D" />
+<img src="https://img.shields.io/badge/Cloud_Architecture-0a0a0a?style=for-the-badge&logo=icloud&logoColor=6BCB77" />
+<img src="https://img.shields.io/badge/DevOps-0a0a0a?style=for-the-badge&logo=devbox&logoColor=4D96FF" />
+<img src="https://img.shields.io/badge/Software_Architecture-0a0a0a?style=for-the-badge&logo=blueprint&logoColor=C77DFF" />
+<img src="https://img.shields.io/badge/Performance_Engineering-0a0a0a?style=for-the-badge&logo=speedtest&logoColor=FF9F45" />
+<img src="https://img.shields.io/badge/Open_Source-0a0a0a?style=for-the-badge&logo=opensourceinitiative&logoColor=00D4FF" />
 
-</td>
-<td width="50%" valign="top">
-
-```
-├── DevOps
-├── Software Architecture
-├── Performance Engineering
-└── Open Source
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
