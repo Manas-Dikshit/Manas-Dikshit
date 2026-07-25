@@ -9,9 +9,9 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Systems+Developer;Distributed+Systems+Enthusiast;Cloud-Native+Architect;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Systems+Developer;Distributed+Systems+Enthusiast;Cloud-Native+Architect;Open+Source+Contributor" alt="Typing SVG" />
 
-<p align="center">
+<p>
   <a href="https://manas-ranjan-dikshit.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/manas-ranjan-dikshit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Manas-Dikshit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -20,159 +20,190 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Manas-Dikshit&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<br>
-
+&nbsp;
 <img src="https://img.shields.io/badge/status-shipping_code-success?style=flat-square" />
-<img src="https://img.shields.io/badge/uptime-99.9%25-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/coffee_consumed-∞-brown?style=flat-square" />
+&nbsp;
 <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" />
 
 </div>
 
 <br>
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│ manas@dev-machine  ~  neofetch                                     │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│   OS:          Engineer.OS  (Backend/AI Flavor)                   │
-│   Host:        Manas-Ranjan-Dikshit                                │
-│   Kernel:      Distributed-Systems 5.0                             │
-│   Uptime:      Learning since day 1, no reboot                     │
-│   Shell:       bash / problem-solving                              │
-│   Languages:   Java, Python, C, C++, JavaScript, TypeScript         │
-│   DE:          Cloud-Native Architecture                            │
-│   Terminal:    VS Code / IntelliJ                                   │
-│   CPU:         Curiosity @ ∞ GHz                                    │
-│   Memory:      Always allocating for new skills                    │
-│                                                                    │
-└──────────────────────────────────────────────────────────────────┘
-```
+## About
 
----
+I'm a software engineer who builds intelligent systems, scalable backend architectures, cloud-native applications, and open-source tools — with a focus on combining technical rigor with real, measurable impact.
 
-## `$ cat about.md`
+**Core interests:** Artificial Intelligence & Machine Learning · Backend Engineering · Distributed Systems · Cloud Infrastructure · DevOps & Automation · System Design · API Security · Open Source
 
-I am a software engineer passionate about building intelligent systems, scalable backend architectures, cloud-native applications, and open-source software.
+<br>
 
-My interests include:
-
-* Artificial Intelligence & Machine Learning
-* Backend Engineering
-* Distributed Systems
-* Cloud Infrastructure
-* DevOps & Automation
-* System Design
-* API Security
-* Open Source Development
-
-I focus on creating solutions that combine technical excellence with practical impact.
-
----
-
-## `$ git log --current-focus`
-
-```diff
-+ Building AI-powered applications
-+ Contributing to open-source projects
-+ Exploring cloud-native architectures
-+ Learning distributed systems design
-+ Developing production-grade backend services
-```
-
----
-
-## Tech Stack Map
+## Skills Architecture
 
 <div align="center">
-<img src="diagrams/tech-stack.svg" alt="Tech Stack Architecture Diagram" width="100%" />
+
+<pre>
+                              ┌─────────────────────────────┐
+                              │      SOFTWARE ENGINEERING     │
+                              └───────────────┬───────────────┘
+                                              │
+        ┌───────────────┬───────────────┬────┴───────────┬───────────────┬───────────────┐
+        │                │                │                │                │               │
+   LANGUAGES         FRONTEND         BACKEND          DATABASES      CLOUD & DEVOPS      AI / ML
+        │                │                │                │                │               │
+        └────────────────┴───────┬────────┴────────────────┴───────┬────────┴───────────────┘
+                                  │                                  │
+                             ORM LAYER                          DEV TOOLING
+</pre>
+
 </div>
 
-<details>
-<summary>View Mermaid source</summary>
+<br>
 
-```mermaid
-architecture-beta
-    group lang(cloud)[Programming Languages]
-    group fe(cloud)[Frontend]
-    group be(cloud)[Backend]
-    group db(cloud)[Databases]
-    group cloud(cloud)[Cloud and DevOps]
-    group tools(cloud)[Tooling]
+<table width="100%">
+<tr><td>
 
-    service java(logos:java)[Java] in lang
-    service python(logos:python)[Python] in lang
-    service c(logos:c)[C] in lang
-    service cpp(logos:c-plusplus)[Cpp] in lang
-    service js(logos:javascript)[JavaScript] in lang
-    service ts(logos:typescript-icon)[TypeScript] in lang
-    service bash(logos:bash-icon)[Bash] in lang
+<img src="https://img.shields.io/badge/01-PROGRAMMING_LANGUAGES-00D4FF?style=for-the-badge&labelColor=0a0a0a" />
 
-    service react(logos:react)[React] in fe
-    service next(logos:nextjs-icon)[NextJS] in fe
-    service tailwind(logos:tailwindcss-icon)[Tailwind] in fe
-    service bootstrap(logos:bootstrap)[Bootstrap] in fe
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,bash" />
+</p>
 
-    service spring(logos:spring-icon)[Spring] in be
-    service node(logos:nodejs-icon)[NodeJS] in be
-    service express(logos:express)[Express] in be
-    service django(logos:django-icon)[Django] in be
+</td></tr>
+</table>
 
-    service prisma(logos:prisma)[Prisma] in db
-    service postgres(logos:postgresql)[Postgres] in db
-    service mongo(logos:mongodb-icon)[MongoDB] in db
-    service firebase(logos:firebase)[Firebase] in db
-    service supabase(logos:supabase-icon)[Supabase] in db
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-    service aws(logos:aws)[AWS] in cloud
-    service gcp(logos:google-cloud)[GCP] in cloud
-    service docker(logos:docker-icon)[Docker] in cloud
-    service k8s(logos:kubernetes)[Kubernetes] in cloud
-    service ansible(logos:ansible)[Ansible] in cloud
-    service ghactions(logos:github-actions)[GHActions] in cloud
+<img src="https://img.shields.io/badge/02-FRONTEND-FF6B6B?style=for-the-badge&labelColor=0a0a0a" />
 
-    service gitlab(logos:gitlab)[GitLab] in tools
-    service linux(logos:linux-tux)[Linux] in tools
-    service vscode(logos:visual-studio-code)[VSCode] in tools
-    service postman(logos:postman-icon)[Postman] in tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/03-BACKEND-4ECDC4?style=for-the-badge&labelColor=0a0a0a" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+<img src="https://img.shields.io/badge/04-DATABASES-FFD93D?style=for-the-badge&labelColor=0a0a0a" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
+</p>
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://img.shields.io/badge/05-ORM-C77DFF?style=for-the-badge&labelColor=0a0a0a" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=prisma" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+<img src="https://img.shields.io/badge/06-CLOUD_%26_DEVOPS-6BCB77-?style=for-the-badge&labelColor=0a0a0a" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible" />
+</p>
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://img.shields.io/badge/07-DEVELOPER_TOOLING-4D96FF?style=for-the-badge&labelColor=0a0a0a" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,figma" />
+</p>
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://img.shields.io/badge/08-AI_%2F_ML-FF9F45?style=for-the-badge&labelColor=0a0a0a" />
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/RAG_Pipelines-3E5C76?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector_Databases-2E4057?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Current Focus
+
+```text
+┌───────────────────────────────────────────────┐
+│  [x] Building AI-powered applications           │
+│  [x] Contributing to open-source projects        │
+│  [x] Exploring cloud-native architectures         │
+│  [x] Learning distributed systems design          │
+│  [x] Developing production-grade backend services │
+└───────────────────────────────────────────────┘
 ```
 
-This diagram is rendered to `diagrams/tech-stack.svg` automatically by a GitHub Action whenever the source above changes, so it always displays as a static image rather than relying on GitHub's live Mermaid renderer.
-</details>
+<br>
 
----
-
-## `$ ls engineering-interests/`
+## Engineering Interests
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ```
-drwxr-xr-x  Artificial-Intelligence/
-drwxr-xr-x  Machine-Learning/
-drwxr-xr-x  Backend-Systems/
-drwxr-xr-x  Distributed-Computing/
-drwxr-xr-x  Cloud-Architecture/
+├── Artificial Intelligence
+├── Machine Learning
+├── Backend Systems
+├── Distributed Computing
+└── Cloud Architecture
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ```
-drwxr-xr-x  DevOps/
-drwxr-xr-x  Software-Architecture/
-drwxr-xr-x  Performance-Engineering/
-drwxr-xr-x  Open-Source/
+├── DevOps
+├── Software Architecture
+├── Performance Engineering
+└── Open Source
 ```
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 ## GitHub Statistics
 
@@ -184,7 +215,7 @@ drwxr-xr-x  Open-Source/
   <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manas-Dikshit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
----
+<br>
 
 ## Contribution Activity
 
@@ -192,42 +223,25 @@ drwxr-xr-x  Open-Source/
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-Dikshit&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
+<br>
 
-## GitHub Achievements
+## Achievements & Contribution Graph
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Manas-Dikshit&theme=onedark&no-frame=true" />
 </p>
 
----
-
-## Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Manas-Dikshit/Manas-Dikshit/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
----
+<br>
 
-## `$ curl open-source/interests`
+## Open Source
 
-```json
-{
-  "interested_in": [
-    "Apache Ecosystem",
-    "Cloud Infrastructure",
-    "Developer Tools",
-    "DevOps Platforms",
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Backend Frameworks"
-  ],
-  "belief": "learning through collaboration, contributing back to the community"
-}
-```
+I'm drawn to the **Apache Ecosystem**, cloud infrastructure, developer tools, DevOps platforms, and AI/ML backend frameworks — and I believe in learning through collaboration and contributing back to the community.
 
----
+<br>
 
 ## Connect
 
@@ -240,41 +254,13 @@ drwxr-xr-x  Open-Source/
   <a href="mailto:manasdikshit48@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-## `$ cat philosophy.txt`
-
-```text
-> Build useful systems.
-> Solve meaningful problems.
-> Learn continuously.
-> Share knowledge openly.
-```
-
----
+<br>
 
 <div align="center">
 
-```javascript
-class ManasRanjanDikshit extends SoftwareEngineer {
-  constructor() {
-    super();
-    this.role   = "Software Engineer";
-    this.focus  = ["AI Systems", "Distributed Systems", "Cloud", "Open Source"];
-    this.motto  = "Building technology that creates measurable impact.";
-  }
+> Build useful systems. Solve meaningful problems. Learn continuously. Share knowledge openly.
 
-  currentlyBuilding() {
-    return "something scalable, something intelligent.";
-  }
-}
-
-const manas = new ManasRanjanDikshit();
-console.log(manas.motto);
-// > Building technology that creates measurable impact.
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=808080&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let%27s+build+something+great+together.;Always+open+to+collaborate+on+cool+projects." alt="Footer" />
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:533483&height=100&section=footer" width="100%" />
 
