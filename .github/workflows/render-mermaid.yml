@@ -20,13 +20,21 @@ jobs:
       - name: Install mermaid-cli
         run: npm install -g @mermaid-js/mermaid-cli
 
+      - name: Fix Chrome sandbox on ubuntu-latest runner
+        run: sudo sysctl kernel.apparmor_restrict_unprivileged_userns=0
+
+      - name: Write puppeteer config
+        run: |
+          echo '{"args": ["--no-sandbox", "--disable-setuid-sandbox"]}' > puppeteer-config.json
+
       - name: Render tech-stack.mmd to SVG
         run: |
           mmdc \
             -i diagrams/tech-stack.mmd \
             -o diagrams/tech-stack.svg \
             -b transparent \
-            -w 1400
+            -w 1400 \
+            -p puppeteer-config.json
 
       - name: Commit rendered diagram
         run: |
