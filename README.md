@@ -218,7 +218,7 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 ## Achievements & Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manas-Dikshit&theme=onedark&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manas-Dikshit&theme=onedark&no-frame=true&row=2&column=4" />
 </p>
 
 <p align="center">
