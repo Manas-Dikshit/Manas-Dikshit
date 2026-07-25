@@ -1,17 +1,24 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"   # refreshes 4x a day instead of 2x
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
+concurrency:
+  group: snake-generation
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
     steps:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -20,11 +27,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=%2300D4FF&color_dots=%2321262d,%23161b22,%23133042,%231a5f7a,%2300d4ff
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
