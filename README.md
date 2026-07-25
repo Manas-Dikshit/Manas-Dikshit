@@ -215,11 +215,58 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 
 <br>
 
-## Achievements & Contribution Graph
+## Estimated Lifetime Coding Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manas-Dikshit&theme=onedark&no-frame=true&row=2&column=4" />
-</p>
+<div align="center">
+
+### Developer Time Investment Dashboard
+*Estimated lifetime hours based on projects, open-source contributions, hackathons & daily development activity*
+
+![Total Hours](https://img.shields.io/badge/Total%20Coding%20Time-3400%2B%20Hours-blueviolet?style=for-the-badge&logo=clockify&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-success?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Languages](https://img.shields.io/badge/Core%20Stack-7%20Technologies-orange?style=for-the-badge&logo=stackshare&logoColor=white)
+
+</div>
+
+<br>
+
+```
+
+╭──────────────────────────────────────────────────────────────╮
+│                  LIFETIME LANGUAGE ACTIVITY                   │
+╰──────────────────────────────────────────────────────────────╯
+
+  Java             ████████████████████  900 hrs   [26.5%]
+  Python           █████████████████░░░  760 hrs   [22.4%]
+  TypeScript       ████████████░░░░░░░░  560 hrs   [16.5%]
+  JavaScript       ██████████░░░░░░░░░░  470 hrs   [13.8%]
+  SQL              ███████░░░░░░░░░░░░░  320 hrs   [ 9.4%]
+  Docker & DevOps  █████░░░░░░░░░░░░░░░  210 hrs   [ 6.2%]
+  C / C++          ████░░░░░░░░░░░░░░░░  180 hrs   [ 5.3%]
+
+```
+
+<br>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/-26.5%25-2b2b2b?style=flat-square&logo=openjdk&logoColor=white&label=Java&labelColor=E76F00)
+![Python](https://img.shields.io/badge/-22.4%25-2b2b2b?style=flat-square&logo=python&logoColor=white&label=Python&labelColor=3776AB)
+![TypeScript](https://img.shields.io/badge/-16.5%25-2b2b2b?style=flat-square&logo=typescript&logoColor=white&label=TypeScript&labelColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-13.8%25-2b2b2b?style=flat-square&logo=javascript&logoColor=black&label=JavaScript&labelColor=F7DF1E)
+![SQL](https://img.shields.io/badge/-9.4%25-2b2b2b?style=flat-square&logo=postgresql&logoColor=white&label=SQL&labelColor=4169E1)
+![Docker](https://img.shields.io/badge/-6.2%25-2b2b2b?style=flat-square&logo=docker&logoColor=white&label=DevOps&labelColor=2496ED)
+![C++](https://img.shields.io/badge/-5.3%25-2b2b2b?style=flat-square&logo=cplusplus&logoColor=white&label=C%2FC%2B%2B&labelColor=00599C)
+
+</div>
+
+<br>
+
+<div align="center">
+
+</div>
+
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Manas-Dikshit/Manas-Dikshit/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
