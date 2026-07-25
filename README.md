@@ -86,6 +86,13 @@ I focus on creating solutions that combine technical excellence with practical i
 
 ## Tech Stack Map
 
+<div align="center">
+<img src="diagrams/tech-stack.svg" alt="Tech Stack Architecture Diagram" width="100%" />
+</div>
+
+<details>
+<summary>View Mermaid source</summary>
+
 ```mermaid
 architecture-beta
     group lang(cloud)[Programming Languages]
@@ -138,7 +145,8 @@ architecture-beta
     cloud:B -- T:tools
 ```
 
-<sub>Note: this uses Mermaid's newer `architecture-beta` diagram type with Iconify logo references. GitHub's Mermaid renderer lags behind upstream releases and strips some features (no `fa:` icons, no hyperlinks/tooltips), so icon rendering here isn't guaranteed on every account. If any node shows blank on your profile, fall back to a plain HTML logo table using `skillicons.dev`, which always renders reliably.</sub>
+This diagram is rendered to `diagrams/tech-stack.svg` automatically by a GitHub Action whenever the source above changes, so it always displays as a static image rather than relying on GitHub's live Mermaid renderer.
+</details>
 
 ---
 
