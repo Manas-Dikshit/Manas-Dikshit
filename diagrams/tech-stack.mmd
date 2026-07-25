@@ -41,9 +41,3 @@ architecture-beta
     service linux(logos:linux-tux)[Linux] in tools
     service vscode(logos:visual-studio-code)[VSCode] in tools
     service postman(logos:postman-icon)[Postman] in tools
-
-    lang:B -- T:fe
-    fe:B -- T:be
-    be:B -- T:db
-    db:B -- T:cloud
-    cloud:B -- T:tools
