@@ -103,7 +103,7 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 <table width="100%">
 <tr><td>
 
-<img src="https://img.shields.io/badge/☁️_CLOUD_%26_DEVOPS-6BCB77?style=for-the-badge&labelColor=111111&color=6BCB77" />
+<img src="https://img.shields.io/badge/06_CLOUD_%26_DEVOPS-6BCB77?style=for-the-badge&labelColor=111111&color=6BCB77" />
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible" />
