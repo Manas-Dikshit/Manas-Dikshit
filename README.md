@@ -137,12 +137,6 @@ architecture-beta
     service linux(logos:linux-tux)[Linux] in tools
     service vscode(logos:visual-studio-code)[VSCode] in tools
     service postman(logos:postman-icon)[Postman] in tools
-
-    lang:B -- T:fe
-    fe:B -- T:be
-    be:B -- T:db
-    db:B -- T:cloud
-    cloud:B -- T:tools
 ```
 
 This diagram is rendered to `diagrams/tech-stack.svg` automatically by a GitHub Action whenever the source above changes, so it always displays as a static image rather than relying on GitHub's live Mermaid renderer.
