@@ -86,73 +86,59 @@ I focus on creating solutions that combine technical excellence with practical i
 
 ## Tech Stack Map
 
-<div align="center">
+```mermaid
+architecture-beta
+    group lang(cloud)[Programming Languages]
+    group fe(cloud)[Frontend]
+    group be(cloud)[Backend]
+    group db(cloud)[Databases]
+    group cloud(cloud)[Cloud and DevOps]
+    group tools(cloud)[Tooling]
 
-<pre>
-                              ┌───────────────────────────┐
-                              │   MANAS RANJAN DIKSHIT     │
-                              └─────────────┬─────────────┘
-        ┌───────────┬───────────┬───────────┼───────────┬───────────┐
-        │           │           │           │           │           │
-   Languages     Backend    Frontend    Databases  Cloud & DevOps  Tooling
-</pre>
+    service java(logos:java)[Java] in lang
+    service python(logos:python)[Python] in lang
+    service c(logos:c)[C] in lang
+    service cpp(logos:c-plusplus)[Cpp] in lang
+    service js(logos:javascript)[JavaScript] in lang
+    service ts(logos:typescript-icon)[TypeScript] in lang
+    service bash(logos:bash-icon)[Bash] in lang
 
-<table>
-<tr><td align="center" width="16.6%"><b>Languages</b></td>
-<td align="center" width="16.6%"><b>Backend</b></td>
-<td align="center" width="16.6%"><b>Frontend</b></td>
-<td align="center" width="16.6%"><b>Databases</b></td>
-<td align="center" width="16.6%"><b>Cloud & DevOps</b></td>
-<td align="center" width="16.6%"><b>Tooling</b></td></tr>
+    service react(logos:react)[React] in fe
+    service next(logos:nextjs-icon)[NextJS] in fe
+    service tailwind(logos:tailwindcss-icon)[Tailwind] in fe
+    service bootstrap(logos:bootstrap)[Bootstrap] in fe
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=python" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=c" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=javascript" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=typescript" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=bash" width="40"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=express" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=django" width="40"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=firebase" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=supabase" width="40"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=gcp" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=docker" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=kubernetes" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=jenkins" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=githubactions" width="40"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=linux" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=intellij" width="40"/><br>
-<img src="https://skillicons.dev/icons?i=postman" width="40"/>
-</td>
-</tr>
-</table>
+    service spring(logos:spring-icon)[Spring] in be
+    service node(logos:nodejs-icon)[NodeJS] in be
+    service express(logos:express)[Express] in be
+    service django(logos:django-icon)[Django] in be
 
-</div>
+    service prisma(logos:prisma)[Prisma] in db
+    service postgres(logos:postgresql)[Postgres] in db
+    service mongo(logos:mongodb-icon)[MongoDB] in db
+    service firebase(logos:firebase)[Firebase] in db
+    service supabase(logos:supabase-icon)[Supabase] in db
+
+    service aws(logos:aws)[AWS] in cloud
+    service gcp(logos:google-cloud)[GCP] in cloud
+    service docker(logos:docker-icon)[Docker] in cloud
+    service k8s(logos:kubernetes)[Kubernetes] in cloud
+    service ansible(logos:ansible)[Ansible] in cloud
+    service ghactions(logos:github-actions)[GHActions] in cloud
+
+    service gitlab(logos:gitlab)[GitLab] in tools
+    service linux(logos:linux-tux)[Linux] in tools
+    service vscode(logos:visual-studio-code)[VSCode] in tools
+    service postman(logos:postman-icon)[Postman] in tools
+
+    lang:B -- T:fe
+    fe:B -- T:be
+    be:B -- T:db
+    db:B -- T:cloud
+    cloud:B -- T:tools
+```
+
+<sub>Note: this uses Mermaid's newer `architecture-beta` diagram type with Iconify logo references. GitHub's Mermaid renderer lags behind upstream releases and strips some features (no `fa:` icons, no hyperlinks/tooltips), so icon rendering here isn't guaranteed on every account. If any node shows blank on your profile, fall back to a plain HTML logo table using `skillicons.dev`, which always renders reliably.</sub>
 
 ---
 
