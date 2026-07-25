@@ -233,7 +233,7 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 ```
 
 ╭──────────────────────────────────────────────────────────────╮
-│                  LIFETIME LANGUAGE ACTIVITY                   │
+│                  LIFETIME LANGUAGE ACTIVITY                  │
 ╰──────────────────────────────────────────────────────────────╯
 
   Java             ████████████████████  900 hrs   [26.5%]
