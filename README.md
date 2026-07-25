@@ -39,23 +39,6 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 
 ## Skills Architecture
 
-<div align="center">
-
-<pre>
-                              ┌─────────────────────────────┐
-                              │      SOFTWARE ENGINEERING     │
-                              └───────────────┬───────────────┘
-                                              │
-        ┌───────────────┬───────────────┬────┴───────────┬───────────────┬───────────────┐
-        │                │                │                │                │               │
-   LANGUAGES         FRONTEND         BACKEND          DATABASES      CLOUD & DEVOPS      AI / ML
-        │                │                │                │                │               │
-        └────────────────┴───────┬────────┴────────────────┴───────┬────────┴───────────────┘
-                                  │                                  │
-                             ORM LAYER                          DEV TOOLING
-</pre>
-
-</div>
 
 <br>
 
