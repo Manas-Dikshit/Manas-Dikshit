@@ -9,35 +9,15 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 </pre>
 
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Manas-Dikshit&label=Profile%20Views&color=0e75b6&style=flat" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/status-shipping_code-success?style=flat-square" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square&logo=github" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Loves-Clean%20Code-blue?style=flat-square&logo=codefactor" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Always-Learning-orange?style=flat-square&logo=bookstack" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-6f42c1?style=flat-square&logo=spring" />
-
+<img src="https://komarev.com/ghpvc/?username=Manas-Dikshit&label=Profile%20Views&style=for-the-badge&color=0E75B6" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Hackathon-Winner-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-LLMs%20%26%20RAG-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Daily%20User-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Build-Always%20Learning-orange?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
 </div>
