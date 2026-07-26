@@ -24,10 +24,23 @@
 
 I'm a software engineer who builds intelligent systems, scalable backend architectures, cloud-native applications, and open-source tools — with a focus on combining technical rigor with real, measurable impact.
 
-**Core interests:** Artificial Intelligence & Machine Learning · Backend Engineering · Distributed Systems · Cloud Infrastructure · DevOps & Automation · System Design · API Security · Open Source
+## Engineering Interests
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0a0a0a?style=for-the-badge&logo=openai&logoColor=00D4FF" />
+<img src="https://img.shields.io/badge/Machine_Learning-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FF6B6B" />
+<img src="https://img.shields.io/badge/Backend_Systems-0a0a0a?style=for-the-badge&logo=server&logoColor=4ECDC4" />
+<img src="https://img.shields.io/badge/Distributed_Computing-0a0a0a?style=for-the-badge&logo=apache&logoColor=FFD93D" />
+<img src="https://img.shields.io/badge/Cloud_Architecture-0a0a0a?style=for-the-badge&logo=icloud&logoColor=6BCB77" />
+<img src="https://img.shields.io/badge/DevOps-0a0a0a?style=for-the-badge&logo=devbox&logoColor=4D96FF" />
+<img src="https://img.shields.io/badge/Software_Architecture-0a0a0a?style=for-the-badge&logo=blueprint&logoColor=C77DFF" />
+<img src="https://img.shields.io/badge/Performance_Engineering-0a0a0a?style=for-the-badge&logo=speedtest&logoColor=FF9F45" />
+<img src="https://img.shields.io/badge/Open_Source-0a0a0a?style=for-the-badge&logo=opensourceinitiative&logoColor=00D4FF" />
+
+</div>
 
 <br>
-
 ## Skills Architecture
 
 
@@ -165,24 +178,6 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 <td align="right"><img src="https://img.shields.io/badge/ACTIVE-brightgreen?style=flat-square" /></td>
 </tr>
 </table>
-
-<br>
-
-## Engineering Interests
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0a0a0a?style=for-the-badge&logo=openai&logoColor=00D4FF" />
-<img src="https://img.shields.io/badge/Machine_Learning-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FF6B6B" />
-<img src="https://img.shields.io/badge/Backend_Systems-0a0a0a?style=for-the-badge&logo=server&logoColor=4ECDC4" />
-<img src="https://img.shields.io/badge/Distributed_Computing-0a0a0a?style=for-the-badge&logo=apache&logoColor=FFD93D" />
-<img src="https://img.shields.io/badge/Cloud_Architecture-0a0a0a?style=for-the-badge&logo=icloud&logoColor=6BCB77" />
-<img src="https://img.shields.io/badge/DevOps-0a0a0a?style=for-the-badge&logo=devbox&logoColor=4D96FF" />
-<img src="https://img.shields.io/badge/Software_Architecture-0a0a0a?style=for-the-badge&logo=blueprint&logoColor=C77DFF" />
-<img src="https://img.shields.io/badge/Performance_Engineering-0a0a0a?style=for-the-badge&logo=speedtest&logoColor=FF9F45" />
-<img src="https://img.shields.io/badge/Open_Source-0a0a0a?style=for-the-badge&logo=opensourceinitiative&logoColor=00D4FF" />
-
-</div>
 
 <br>
 
