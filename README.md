@@ -147,39 +147,6 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 
 <br>
 
-## Current Focus
-
-<div align="center">
-<img src="https://img.shields.io/badge/CURRENT_FOCUS-2026-00D4FF?style=for-the-badge&labelColor=0a0a0a" />
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="75%">Building AI-powered applications</td>
-<td width="25%" align="right"><img src="https://img.shields.io/badge/ACTIVE-brightgreen?style=flat-square" /></td>
-</tr>
-<tr>
-<td>Contributing to open-source projects</td>
-<td align="right"><img src="https://img.shields.io/badge/ONGOING-blue?style=flat-square" /></td>
-</tr>
-<tr>
-<td>Exploring cloud-native architectures</td>
-<td align="right"><img src="https://img.shields.io/badge/EXPLORING-yellow?style=flat-square" /></td>
-</tr>
-<tr>
-<td>Learning distributed systems design</td>
-<td align="right"><img src="https://img.shields.io/badge/LEARNING-9c59d1?style=flat-square" /></td>
-</tr>
-<tr>
-<td>Developing production-grade backend services</td>
-<td align="right"><img src="https://img.shields.io/badge/ACTIVE-brightgreen?style=flat-square" /></td>
-</tr>
-</table>
-
-<br>
-
 ## GitHub Statistics
 
 <p align="center">
