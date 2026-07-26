@@ -226,12 +226,6 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 
 <br>
 
-## Open Source
-
-I'm drawn to the **Apache Ecosystem**, cloud infrastructure, developer tools, DevOps platforms, and AI/ML backend frameworks — and I believe in learning through collaboration and contributing back to the community.
-
-<br>
-
 ## Connect
 
 <p align="center">
