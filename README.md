@@ -9,8 +9,6 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Systems+Developer;Distributed+Systems+Enthusiast;Cloud-Native+Architect;Open+Source+Contributor" alt="Typing SVG" />
-
 <p>
   <a href="https://manas-ranjan-dikshit.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/manas-ranjan-dikshit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
