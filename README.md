@@ -41,9 +41,8 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 </div>
 
 <br>
+
 ## Skills Architecture
-
-
 <br>
 
 <table width="100%">
