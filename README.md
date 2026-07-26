@@ -37,125 +37,112 @@ I'm a software engineer who builds intelligent systems, scalable backend archite
 
 <br>
 
-## 🏗️ Skills Architecture
+## Skills Architecture
+
+
+<br>
 
 <table width="100%">
-
-<tr>
-<td colspan="2" align="center">
+<tr><td>
 
 <img src="https://img.shields.io/badge/01-PROGRAMMING_LANGUAGES-00D4FF?style=for-the-badge&labelColor=0a0a0a" />
 
-<br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,bash" />
+</p>
 
-</td>
-</tr>
+</td></tr>
+</table>
 
+<table width="100%">
 <tr>
-
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/02-FRONTEND-FF6B6B?style=for-the-badge&labelColor=0a0a0a" />
 
-<br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
 
 </td>
-
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/03-BACKEND-4ECDC4?style=for-the-badge&labelColor=0a0a0a" />
 
-<br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi" />
+</p>
 
 </td>
-
 </tr>
+</table>
 
+<table width="100%">
 <tr>
-
-<td width="60%" align="center" valign="top">
+<td width="60%" valign="top">
 
 <img src="https://img.shields.io/badge/04-DATABASES-FFD93D?style=for-the-badge&labelColor=0a0a0a" />
 
-<br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
+</p>
 
 </td>
-
-<td width="40%" align="center" valign="top">
+<td width="40%" valign="top">
 
 <img src="https://img.shields.io/badge/05-ORM-C77DFF?style=for-the-badge&labelColor=0a0a0a" />
 
-<br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=prisma" />
+</p>
 
 </td>
-
 </tr>
+</table>
 
-<tr>
+<table width="100%">
+<tr><td>
 
-<td colspan="2" align="center">
+<img src="https://img.shields.io/badge/06_CLOUD_%26_DEVOPS-6BCB77?style=for-the-badge&labelColor=111111&color=6BCB77" />
 
-<img src="https://img.shields.io/badge/06-CLOUD_%26_DEVOPS-6BCB77?style=for-the-badge&labelColor=111111" />
-
-<br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible" />
+</p>
 
-</td>
+</td></tr>
+</table>
 
-</tr>
-
+<table width="100%">
 <tr>
-
-<td width="55%" align="center" valign="top">
+<td width="55%" valign="top">
 
 <img src="https://img.shields.io/badge/07-DEVELOPER_TOOLING-4D96FF?style=for-the-badge&labelColor=0a0a0a" />
 
-<br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,figma" />
+</p>
 
 </td>
-
-<td width="45%" align="center" valign="top">
+<td width="45%" valign="top">
 
 <img src="https://img.shields.io/badge/08-AI_%2F_ML-FF9F45?style=for-the-badge&labelColor=0a0a0a" />
 
-<br><br>
-
+<p align="center">
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-
-<br>
-
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-
-<br>
-
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" />
-
-<br>
-
+<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" /><br>
 <img src="https://img.shields.io/badge/RAG_Pipelines-3E5C76?style=flat-square" />
 <img src="https://img.shields.io/badge/Vector_Databases-2E4057?style=flat-square" />
+</p>
 
 </td>
-
 </tr>
-
 </table>
+
+<br>
 
 ## Current Focus
 
