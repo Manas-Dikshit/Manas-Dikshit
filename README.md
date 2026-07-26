@@ -10,11 +10,35 @@
 </pre>
 
 
+<p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Manas-Dikshit&label=Profile%20Views&color=0e75b6&style=flat" />
+
 &nbsp;
+
 <img src="https://img.shields.io/badge/status-shipping_code-success?style=flat-square" />
+
 &nbsp;
+
 <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" />
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square&logo=github" />
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Loves-Clean%20Code-blue?style=flat-square&logo=codefactor" />
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Always-Learning-orange?style=flat-square&logo=bookstack" />
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-6f42c1?style=flat-square&logo=spring" />
+
+</p>
 
 </div>
 
