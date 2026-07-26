@@ -35,7 +35,9 @@
 
 ## About
 
-I'm a software engineer who builds intelligent systems, scalable backend architectures, cloud-native applications, and open-source tools — with a focus on combining technical rigor with real, measurable impact.
+I enjoy transforming **complex ideas** into **simple, reliable software**.
+
+I believe great engineering is built on **clean code**, **deep system understanding**, and **thoughtful problem-solving**. Whether I'm shipping production features, contributing to open source, or exploring new technologies, I'm driven by **curiosity**, **continuous learning**, and the ambition to build software that creates **lasting value**.
 
 ## Engineering Interests
 
