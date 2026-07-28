@@ -197,24 +197,6 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 <br>
 
-```
-
-╭──────────────────────────────────────────────────────────────╮
-│                  LIFETIME LANGUAGE ACTIVITY                  │
-╰──────────────────────────────────────────────────────────────╯
-
-  Java             ████████████████████  900 hrs   [26.5%]
-  Python           █████████████████░░░  760 hrs   [22.4%]
-  TypeScript       ████████████░░░░░░░░  560 hrs   [16.5%]
-  JavaScript       ██████████░░░░░░░░░░  470 hrs   [13.8%]
-  SQL              ███████░░░░░░░░░░░░░  320 hrs   [ 9.4%]
-  Docker & DevOps  █████░░░░░░░░░░░░░░░  210 hrs   [ 6.2%]
-  C / C++          ████░░░░░░░░░░░░░░░░  180 hrs   [ 5.3%]
-
-```
-
-<br>
-
 <div align="center">
 
 ![Java](https://img.shields.io/badge/-26.5%25-2b2b2b?style=flat-square&logo=openjdk&logoColor=white&label=Java&labelColor=E76F00)
