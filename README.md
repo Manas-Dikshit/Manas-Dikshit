@@ -59,96 +59,85 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 ## 🛠️ Skills Architecture
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 💻 Programming Languages
+### 💻 Programming
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,bash&perline=4" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,bash&perline=4"/>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
 ### 🎨 Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=4" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=4"/>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
 ### ⚙️ Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi&perline=5" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗄️ Databases & ORM
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma&perline=3" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi&perline=5"/>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td align="center">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&perline=5"/>
+
+</td>
+
+<td align="center">
+
+### 🔗 ORM
+
+<img src="https://skillicons.dev/icons?i=prisma"/>
+
+</td>
+
+<td align="center">
 
 ### ☁️ Cloud & DevOps
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible&perline=3" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔧 Developer Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,figma&perline=4" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible&perline=3"/>
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2">
+<td align="center">
 
-### 🤖 AI / ML & LLM Engineering
+### 🛠️ Tooling
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,figma&perline=4"/>
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</td>
 
-<br><br>
+<td colspan="2" align="center">
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-3E5C76?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector_Databases-2E4057?style=for-the-badge" />
+### 🤖 AI / LLM
 
-</p>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-3E5C76?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_DB-2E4057?style=for-the-badge"/>
 
 </td>
 </tr>
+
 </table>
 <br>
 
