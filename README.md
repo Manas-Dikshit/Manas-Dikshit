@@ -57,109 +57,99 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 <br>
 
-## Skills Architecture
-<br>
+## 🛠️ Skills Architecture
 
-<table width="100%">
-<tr><td>
-
-<img src="https://img.shields.io/badge/01-PROGRAMMING_LANGUAGES-00D4FF?style=for-the-badge&labelColor=0a0a0a" />
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,bash" />
-</p>
-
-</td></tr>
-</table>
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02-FRONTEND-FF6B6B?style=for-the-badge&labelColor=0a0a0a" />
+### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,bash&perline=4" />
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/03-BACKEND-4ECDC4?style=for-the-badge&labelColor=0a0a0a" />
+### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=4" />
 </p>
 
 </td>
 </tr>
-</table>
 
-<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04-DATABASES-FFD93D?style=for-the-badge&labelColor=0a0a0a" />
+### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi&perline=5" />
 </p>
 
 </td>
-<td width="40%" valign="top">
 
-<img src="https://img.shields.io/badge/05-ORM-C77DFF?style=for-the-badge&labelColor=0a0a0a" />
+<td width="50%" valign="top">
+
+### 🗄️ Databases & ORM
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=prisma" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma&perline=3" />
 </p>
 
 </td>
 </tr>
-</table>
 
-<table width="100%">
-<tr><td>
-
-<img src="https://img.shields.io/badge/06_CLOUD_%26_DEVOPS-6BCB77?style=for-the-badge&labelColor=111111&color=6BCB77" />
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible" />
-</p>
-
-</td></tr>
-</table>
-
-<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/07-DEVELOPER_TOOLING-4D96FF?style=for-the-badge&labelColor=0a0a0a" />
+### ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,figma" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible&perline=3" />
 </p>
 
 </td>
-<td width="45%" valign="top">
 
-<img src="https://img.shields.io/badge/08-AI_%2F_ML-FF9F45?style=for-the-badge&labelColor=0a0a0a" />
+<td width="50%" valign="top">
+
+### 🔧 Developer Tooling
 
 <p align="center">
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/RAG_Pipelines-3E5C76?style=flat-square" />
-<img src="https://img.shields.io/badge/Vector_Databases-2E4057?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,figma&perline=4" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🤖 AI / ML & LLM Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-3E5C76?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Databases-2E4057?style=for-the-badge" />
+
 </p>
 
 </td>
 </tr>
 </table>
-
 <br>
 
 ## GitHub Statistics
