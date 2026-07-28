@@ -57,85 +57,85 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 <br>
 
-## 🛠️ Skills Architecture
+## Skills Architecture
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
 
-### 💻 Programming
+<td width="25%" align="center" valign="top">
+
+### Programming
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,bash&perline=4"/>
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center" valign="top">
 
-### 🎨 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=4"/>
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center" valign="top">
 
-### ⚙️ Backend
+### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi&perline=5"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi&perline=3"/>
 
 </td>
+
+<td width="25%" align="center" valign="top">
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible&perline=3"/>
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center">
 
-### 🗄️ Databases
+<td align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&perline=5"/>
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&perline=3"/>
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
-### 🔗 ORM
+### ORM
 
 <img src="https://skillicons.dev/icons?i=prisma"/>
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible&perline=3"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🛠️ Tooling
+### Tooling
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,figma&perline=4"/>
 
 </td>
 
-<td colspan="2" align="center">
+<td align="center" valign="top">
 
-### 🤖 AI / LLM
+### AI / LLM
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-3E5C76?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_DB-2E4057?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/RAG-3E5C76?style=flat-square"/>
 
 </td>
+
 </tr>
 
 </table>
