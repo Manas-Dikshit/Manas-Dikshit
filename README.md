@@ -126,16 +126,18 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 ### AI / LLM
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/RAG-3E5C76?style=flat-square"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-3E5C76?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vector_DB-2E4057?style=flat-square"/>
+</p>
 
 </td>
-
 </tr>
 
 </table>
