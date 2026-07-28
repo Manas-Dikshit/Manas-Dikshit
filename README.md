@@ -147,7 +147,7 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://streak-stats.demolab.com?user=Manas-Dikshit" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Manas-Dikshit&theme=tokyonight&hide_border=true" />
 </p>
 
 
