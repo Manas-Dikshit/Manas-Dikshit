@@ -214,15 +214,6 @@ I believe great engineering is built on **clean code**, **deep system understand
 </p>
 <br>
 
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manas-Dikshit/Manas-Dikshit/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-<br>
-
 ## Connect
 
 <p align="center">
