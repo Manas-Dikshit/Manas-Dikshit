@@ -11,21 +11,21 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Manas-Dikshit&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Manas-Dikshit&label=Profile%20Views&color=374151&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/status-shipping_code-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Shipping%20Code-374151?style=flat-square&logo=githubactions&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Build-Passing-374151?style=flat-square&logo=github&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-374151?style=flat-square&logo=github&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Product-Developer-ff6b6b?style=flat-square&logo=vercel" />
+<img src="https://img.shields.io/badge/Product-Developer-374151?style=flat-square&logo=vercel&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring-success?style=flat-square&logo=spring" />
+<img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring-374151?style=flat-square&logo=spring&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/AI-Engineer-412991?style=flat-square&logo=openai" />
+<img src="https://img.shields.io/badge/AI-Engineer-374151?style=flat-square&logo=openai&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Always-Learning-00C853?style=flat-square&logo=bookstack" />
+<img src="https://img.shields.io/badge/Always-Learning-374151?style=flat-square&logo=bookstack&logoColor=white" />
 
 </p>
 
