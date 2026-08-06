@@ -43,15 +43,15 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend%20Systems-0F766E?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Distributed%20Computing-D97706?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Architecture-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Software%20Architecture-7C3AED?style=for-the-badge&logo=stackshare&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance%20Engineering-DC2626?style=for-the-badge&logo=speedtest&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-16A34A?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Systems-374151?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Distributed%20Computing-4B5563?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Architecture-6B7280?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-374151?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Architecture-1F2937?style=for-the-badge&logo=stackshare&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance%20Engineering-111827?style=for-the-badge&logo=speedtest&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-374151?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
 
 </div>
 
