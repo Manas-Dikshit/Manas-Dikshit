@@ -200,26 +200,13 @@ I believe great engineering is built on **clean code**, **deep system understand
 ## GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Manas-Dikshit&theme=github-dark&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Manas-Dikshit&theme=transparent&hide_border=true" />
 </p>
 
-<p align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-Dikshit&theme=github-dark&hide_border=true&area=true"/>
+<br>
 
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Dikshit&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manas-Dikshit&theme=github_dark"/>
-
-</p>
 ## Contribution Activity
 
 <p align="center">
