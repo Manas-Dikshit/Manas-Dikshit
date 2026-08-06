@@ -210,9 +210,8 @@ I believe great engineering is built on **clean code**, **deep system understand
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-Dikshit&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-Dikshit&theme=github-dark&hide_border=true&area=true" />
 </p>
-
 <br>
 
 ## Estimated Lifetime Coding Activity
