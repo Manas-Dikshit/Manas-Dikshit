@@ -214,38 +214,6 @@ I believe great engineering is built on **clean code**, **deep system understand
 </p>
 <br>
 
-## Estimated Lifetime Coding Activity
-
-<div align="center">
-
-### Developer Time Investment Dashboard
-*Estimated lifetime hours based on projects, open-source contributions, hackathons & daily development activity*
-
-![Total Hours](https://img.shields.io/badge/Total%20Coding%20Time-3400%2B%20Hours-blueviolet?style=for-the-badge&logo=clockify&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-success?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Languages](https://img.shields.io/badge/Core%20Stack-7%20Technologies-orange?style=for-the-badge&logo=stackshare&logoColor=white)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/-26.5%25-2b2b2b?style=flat-square&logo=openjdk&logoColor=white&label=Java&labelColor=E76F00)
-![Python](https://img.shields.io/badge/-22.4%25-2b2b2b?style=flat-square&logo=python&logoColor=white&label=Python&labelColor=3776AB)
-![TypeScript](https://img.shields.io/badge/-16.5%25-2b2b2b?style=flat-square&logo=typescript&logoColor=white&label=TypeScript&labelColor=3178C6)
-![JavaScript](https://img.shields.io/badge/-13.8%25-2b2b2b?style=flat-square&logo=javascript&logoColor=black&label=JavaScript&labelColor=F7DF1E)
-![SQL](https://img.shields.io/badge/-9.4%25-2b2b2b?style=flat-square&logo=postgresql&logoColor=white&label=SQL&labelColor=4169E1)
-![Docker](https://img.shields.io/badge/-6.2%25-2b2b2b?style=flat-square&logo=docker&logoColor=white&label=DevOps&labelColor=2496ED)
-![C++](https://img.shields.io/badge/-5.3%25-2b2b2b?style=flat-square&logo=cplusplus&logoColor=white&label=C%2FC%2B%2B&labelColor=00599C)
-
-</div>
-
-<br>
-
-<div align="center">
-
-</div>
 
 ## Contribution Graph
 
