@@ -1,19 +1,15 @@
 <div align="center">
 
-<div align="center">
+<pre>
+███╗   ███╗ █████╗ ███╗   ██╗ █████╗ ███████╗
+████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝
+██╔████╔██║███████║██╔██╗ ██║███████║███████╗
+██║╚██╔╝██║██╔══██║██║╚██╗██║███████║╚════██║
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██╔══██║███████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+        Love to Solve • Learn • Build • Ship
+</pre>
 
-```bash
-manas@github:~$ whoami
-Manas Ranjan Dikshit
-
-manas@github:~$ cat passion.txt
-> Love to Solve
-> Love to Learn
-
-manas@github:~$ █
-```
-
-</div>
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Manas-Dikshit&label=Profile%20Views&color=374151&style=flat-square" />
