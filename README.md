@@ -61,13 +61,22 @@ I believe great engineering is built on **clean code**, **deep system understand
 ## Skills Architecture
 
 <table width="100%">
+
 <tr>
 
 <td width="25%" align="center" valign="top">
 
 ### Programming
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,bash&perline=4"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=white"/>
+</p>
 
 </td>
 
@@ -75,7 +84,12 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=4"/>
+<p align="center">
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
 
 </td>
 
@@ -83,7 +97,13 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi&perline=3"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Spring-111827?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
 
 </td>
 
@@ -91,7 +111,14 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,ansible&perline=3"/>
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-111827?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-111827?style=flat-square&logo=ansible&logoColor=white"/>
+</p>
 
 </td>
 
@@ -103,7 +130,13 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&perline=3"/>
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
 
 </td>
 
@@ -111,7 +144,9 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 ### ORM
 
-<img src="https://skillicons.dev/icons?i=prisma"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white"/>
+</p>
 
 </td>
 
@@ -119,31 +154,39 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 ### Tooling
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,figma&perline=4"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-111827?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=white"/>
+</p>
 
 </td>
 
 <td align="center" valign="top">
 
-### AI / LLM
+### AI / Agentic AI
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Gemini_API-111827?style=flat-square&logo=googlegemini&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-111827?style=flat-square&logo=huggingface&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FAISS-111827?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Vector_DB-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=flat-square&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windsurf-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCode-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_DB-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square"/>
 
 </p>
 
