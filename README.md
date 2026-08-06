@@ -250,10 +250,10 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 <div align="center">
 
-> Build useful systems. Solve meaningful problems. Learn continuously. Share knowledge openly.
+> **Build useful systems. Solve meaningful problems. Learn continuously. Share knowledge openly.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:533483&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=90&section=footer"/>
 
 </div>
