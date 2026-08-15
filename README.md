@@ -200,7 +200,10 @@ I believe great engineering is built on **clean code**, **deep system understand
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
+  <img
+  width="49%"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true"
+/>
   <img width="49%" src="https://streak-stats.demolab.com?user=Manas-Dikshit&theme=transparent&hide_border=true" />
 </p>
 
