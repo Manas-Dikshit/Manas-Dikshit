@@ -202,7 +202,7 @@ I believe great engineering is built on **clean code**, **deep system understand
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&title_color=007BFF&text_color=007BFF&icon_color=007BFF"
+    src="https://github-stats-extended.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&title_color=007BFF&text_color=007BFF&icon_color=007BFF"
     alt="GitHub Statistics"
   />
   <img
