@@ -201,11 +201,15 @@ I believe great engineering is built on **clean code**, **deep system understand
 
 <p align="center">
   <img
-  width="49%"
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&title_color=007BFF&text_color=007BFF&icon_color=007BFF"
-  alt="GitHub Statistics"
-/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Manas-Dikshit&theme=transparent&hide_border=true" />
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Manas-Dikshit&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&title_color=007BFF&text_color=007BFF&icon_color=007BFF"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=Manas-Dikshit&theme=transparent&hide_border=true&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideLabels=007BFF&dates=007BFF&currStreakNum=007BFF&sideNums=007BFF"
+    alt="GitHub Streak"
+  />
 </p>
 
 
