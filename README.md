@@ -223,7 +223,7 @@ I believe great engineering is built on **clean code**, **deep system understand
   <a href="https://leetcode.com/u/Manas-Ranjan-Dikshit">
     <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@AapkaMRD">
+  <a href="https://youtube.com/@BuildWithMRD">
     <img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://instagram.com/er.manas01_">
